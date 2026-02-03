@@ -17,7 +17,7 @@ Mini projeto de CRUD (Create, Read, Update, Delete) com conexão ao banco de dad
 
 2. **Clone o projeto**
    ```bash
-   git clone https://github.com/ItaloBrazucaDeveloper/UsersCrud.git
+   git clone https://github.com/brazuca-dev/UsersCrud.git
    ```   
 
 3. **Entre na pasta do projeto**
@@ -53,3 +53,4 @@ Mini projeto de CRUD (Create, Read, Update, Delete) com conexão ao banco de dad
 ---
 
 Sinta-se à vontade para contribuir!
+
